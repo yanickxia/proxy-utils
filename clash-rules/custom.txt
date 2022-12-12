@@ -1,0 +1,3 @@
+payload:
+  - '+.openapi.com'
+  - '+.auth0.com'
